@@ -1,1 +1,1 @@
-# Blockchain-based-Spin-Model
+# Blockchain-based-Spin-ModelChecker
